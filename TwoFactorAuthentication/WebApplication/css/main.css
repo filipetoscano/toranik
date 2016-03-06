@@ -1,0 +1,26 @@
+﻿body {
+    font-family: Tahoma;
+}
+
+button {
+    padding: 5px;
+}
+
+input {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+input[readonly] {
+    background-color: #ddd;
+}
+
+input.ok {
+    background-color: green;
+}
+
+input.nok {
+    background-color: red;
+}
+
+/* eof */

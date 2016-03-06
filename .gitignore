@@ -1,0 +1,7 @@
+TwoFactorAuthentication/bower_components/
+TwoFactorAuthentication/packages/
+TwoFactorAuthentication/WebApplication/bin/
+TwoFactorAuthentication/WebApplication/obj/
+TwoFactorAuthentication/WebApplication/js/jquery.min.js
+TwoFactorAuthentication/.vs/
+TwoFactorAuthentication/WebApplication/App_Data/TwoFactor.sqlite

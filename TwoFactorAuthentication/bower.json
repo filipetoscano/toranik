@@ -1,0 +1,24 @@
+{
+    "name": "TwoFactorAuthentication",
+    "homepage": "https://github.com/filipetoscano/toranik",
+    "authors": [
+        "Filipe Toscano <ft@itm.net>"
+    ],
+    "description": "",
+    "main": "",
+    "moduleType": [
+        "amd"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "^2.2.1"
+    }
+}
