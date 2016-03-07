@@ -1,0 +1,11 @@
+{
+    "use": [ "postcss-import", "postcss-discard-comments", "autoprefixer", "postcss-cssnext", "cssnano", "postcss-reporter" ],
+    "input": "bundle.css",
+    "output": "bundle.min.css",
+    "map": {
+        "inline":  false
+    },
+    "autoprefixer": {
+        "browsers": "> 5%"
+    }
+}

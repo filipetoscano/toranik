@@ -1,0 +1,16 @@
+
+/*
+ * Nested rules
+ */
+
+table {
+    flex: auto;
+    width: 100%;
+    border-collapse: collapse;
+
+    & td {
+        text-align: right
+    }
+}
+
+/* eof */

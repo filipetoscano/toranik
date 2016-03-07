@@ -1,0 +1,10 @@
+
+:root {
+    --mainColor: red;
+}
+
+a {
+    color: var(--mainColor);
+}
+
+/* eof */

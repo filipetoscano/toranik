@@ -1,0 +1,14 @@
+
+
+/*
+ * Custom media queries
+ */
+@custom-media --small-viewport (max-width: 30em);
+
+@media (--small-viewport) {
+  a {
+      color: green;
+  }
+}
+
+/* eof */

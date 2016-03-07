@@ -5,3 +5,9 @@ TwoFactorAuthentication/WebApplication/obj/
 TwoFactorAuthentication/WebApplication/js/jquery.min.js
 TwoFactorAuthentication/.vs/
 TwoFactorAuthentication/WebApplication/App_Data/TwoFactor.sqlite
+CssPipeline/node_modules/
+CssPipeline/**/*.min.css
+CssPipeline/**/*.min.css.map
+JsPipeline/node_modules/
+JsPipeline/**/*.min.js
+JsPipeline/**/*.min.js.map

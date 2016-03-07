@@ -1,0 +1,15 @@
+
+div.flex {
+    flex: auto;
+    margin-top: 5px;
+}
+
+table {
+    table-layout: fixed;
+
+    & td {
+        text-align: right;
+    }
+}
+
+/* eof */

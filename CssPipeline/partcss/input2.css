@@ -1,0 +1,21 @@
+
+/*
+ * Variables
+ */
+:root {
+    --mainColor: red;
+}
+
+a {
+    -mainColor: blue;
+}
+
+div {
+    color: var(--mainColor);
+}
+
+a {
+    color: var(--mainColor);
+}
+
+/* eof */
