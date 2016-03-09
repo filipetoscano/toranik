@@ -11,3 +11,6 @@ CssPipeline/**/*.min.css.map
 JsPipeline/node_modules/
 JsPipeline/**/*.min.js
 JsPipeline/**/*.min.js.map
+CssSprites/node_modules/
+CssSprites/img/xsprites/
+CssSprites/css/sprites-a.css
