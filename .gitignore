@@ -20,3 +20,4 @@ AspCoreServices/Ohm/*.nupkg
 AspCoreDocker/.vs/
 *.nupkg
 AspCoreDocker/artifacts/
+AspCoreServices/artifacts/
