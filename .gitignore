@@ -17,3 +17,5 @@ CssSprites/css/sprites-a.css
 AspCoreServices/.vs/
 AspCoreServices/Ohm/*.nupkg
 *.lock.json
+AspCoreDocker/.vs/
+*.nupkg

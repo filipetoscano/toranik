@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0-*",
+    "description": "DockerLibrary Class Library",
+    "authors": [ "ftoscano" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+    "frameworks": {
+        "net451": { },
+        "dnxcore50": {
+            "dependencies": {
+                "System.Runtime": "4.0.21-beta-23516"
+            }
+        }
+    }
+}
