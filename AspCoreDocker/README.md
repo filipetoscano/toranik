@@ -1,8 +1,8 @@
 AspCoreDocker
 =========================================================================
 
-Objective is to have a .NET application running under Docket, but where
-the main application has dependencies which are only available on a 
+Objective is to have a .NET console application running under Docker, but
+where the main application has dependencies which are only available on a 
 private NuGet server.
 
 
@@ -47,7 +47,7 @@ c5fb8b208f3d: Download complete
 
 * Run `docker-run.cmd` to run the console application.
 
-```
+    ```
 $ ./docker-run.cmd
 3/14/2016 3:41:37 PM
 Ran!
