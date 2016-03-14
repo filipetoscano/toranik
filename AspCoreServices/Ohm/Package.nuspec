@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>Ohm</id>
+        <version>1.0.0</version>
+        <authors>ftoscano</authors>
+        <owners>ftoscano</owners>
+        <licenseUrl>https://github.com/filipetoscano/toranik/License.txt</licenseUrl>
+        <projectUrl>https://github.com/filipetoscano/toranik</projectUrl>
+        <iconUrl>http://www.gravatar.com/avatar/cf4156c12f347f68a74ef362ece03332.jpg</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Lego for Micro-services in ASP.NET Core</description>
+        <releaseNotes>Initial version.</releaseNotes>
+        <copyright>Copyright 2016</copyright>
+        <tags>Wadl</tags>
+    </metadata>
+</package>

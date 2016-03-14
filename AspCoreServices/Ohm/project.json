@@ -1,0 +1,24 @@
+{
+    "version": "1.0.0-*",
+    "description": "Ohm Class Library",
+    "authors": [ "ftoscano" ],
+    "tags": [ "" ],
+    "projectUrl": "https://github.com/filipetoscano/toranik/AspCoreServices",
+    "licenseUrl": "",
+
+    "frameworks": {
+        "dnx46": { },
+        "dnxcore50": {
+            "dependencies": {
+                "runtime.any.System.Xml.XmlSerializer": "4.0.11-beta-23516"
+            }
+        }
+    },
+
+    "dependencies": {
+        "Microsoft.AspNet.Http.Abstractions": "1.0.0-rc1-final",
+        "Microsoft.AspNet.Mvc.ViewFeatures": "6.0.0-rc1-final",
+        "Microsoft.Extensions.PlatformAbstractions": "1.0.0-rc1-final",
+        "System.Xml.XmlDocument": "4.0.0"
+    }
+}
