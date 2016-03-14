@@ -21,10 +21,12 @@ Steps
 1. Run 'Docker QuickStart Terminal'. Please note that the `clean.cmd`
    batch file will not work in a standard command prompt!
 
-2. Run `DockerLibrary/nuget-push.cmd`, which will bundle the class
-   library as a .nupkg and push it onto the private server.
+2. Build DockerLibrary project in Release build.
 
-3. Run `docker-build.cmd` which will build a new docker image based on
+3. Run `nuget-push.cmd`, which will bundle the class library as a
+   .nupkg and push it onto the private server.
+
+4. Run `docker-build.cmd` which will build a new docker image based on
    the instructions in the `Dockerfile`. The first build *will* take
    long since it requires the `microsoft/aspnet:1.0.0-rc1-update1-coreclr`
    base image to be downloaded.
@@ -41,9 +43,9 @@ a37091d1f8ae: Downloading [=============>                                     ] 
 c5fb8b208f3d: Download complete
 8ccdb186c8a8: Download complete```
 
-4. Run `docker-run.cmd` to run the console application.
+5. Run `docker-run.cmd` to run the console application.
 
-5. Once you are done, run `clean.cmd` to remove all container instances,
+6. Once you are done, run `clean.cmd` to remove all container instances,
    as well as the image you just built.
 
 

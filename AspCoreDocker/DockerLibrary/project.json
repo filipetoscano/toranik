@@ -1,10 +1,14 @@
 {
     "version": "1.0.0-*",
-    "description": "DockerLibrary Class Library",
     "authors": [ "ftoscano" ],
-    "tags": [ "" ],
-    "projectUrl": "",
-    "licenseUrl": "",
+    "description": "NuGet / Docker / AspCore test",
+
+    "projectUrl": "https://github.com/filipetoscano/toranik",
+    "licenseUrl": "https://github.com/filipetoscano/toranik/blob/master/License.txt",
+    "iconUrl": "http://www.gravatar.com/avatar/cf4156c12f347f68a74ef362ece03332.jpg",
+    "copyright": "torani",
+    "tags": [ "xpto core" ],
+
     "frameworks": {
         "net451": { },
         "dnxcore50": {

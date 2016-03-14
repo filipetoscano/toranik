@@ -19,3 +19,4 @@ AspCoreServices/Ohm/*.nupkg
 *.lock.json
 AspCoreDocker/.vs/
 *.nupkg
+AspCoreDocker/artifacts/
